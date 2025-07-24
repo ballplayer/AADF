@@ -1,0 +1,1 @@
+{"model_name": "ResNet50", "dataset_name": "MNIST", "task": 0, "save_path": "../adv-img/", "save_boxes_path": null, "substitute": true, "method_name": "AutoAttack", "targeted": false, "distance_str": null, "epsilons": [0.5]}

@@ -1,0 +1,10 @@
+ResNet50
+MNIST
+0
+../adv-img/
+None
+True
+AutoAttack
+False
+None
+[0.5]

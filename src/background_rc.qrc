@@ -1,0 +1,28 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/">
+    <file>picture/bg.png</file>
+    <file>picture/world-of-warcraft.png</file>
+    <file>picture/darkbg.png</file>
+    <file>picture/user.png</file>
+    <file>picture/method.png</file>
+    <file>picture/model.png</file>
+    <file>picture/dataset.png</file>
+    <file>picture/epsilon.png</file>
+    <file>picture/set.png</file>
+    <file>picture/test.png</file>
+    <file>picture/record.png</file>
+    <file>picture/about.png</file>
+    <file>picture/xidianlogo.png</file>
+    <file>picture/link.png</file>
+    <file>picture/AE1.png</file>
+    <file>picture/AE2.png</file>
+    <file>picture/AE3.png</file>
+    <file>picture/AE4.png</file>
+    <file>picture/AE5.png</file>
+    <file>picture/AE6.png</file>
+    <file>picture/AE7.png</file>
+    <file>picture/AEresul1_1.png</file>
+    <file>picture/AEresul1_2.png</file>
+</qresource>
+</RCC>
